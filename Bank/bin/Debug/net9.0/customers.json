@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "1",
+    "CustomerID": "1",
+    "Address": "1",
+    "Phone": "1",
+    "IR": 0.05,
+    "Loan": 0,
+    "InitialDeposit": 1
+  },
+  {
+    "Name": "1",
+    "CustomerID": "2",
+    "Address": "1",
+    "Phone": "1",
+    "IR": 0.05,
+    "Loan": 0,
+    "InitialDeposit": 1
+  }
+]

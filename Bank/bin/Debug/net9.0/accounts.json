@@ -1,0 +1,14 @@
+[
+  {
+    "$type": "saving",
+    "AccountNumber": 935152,
+    "Balance": 0,
+    "Loan": 0
+  },
+  {
+    "$type": "saving",
+    "AccountNumber": 242572,
+    "Balance": 2,
+    "Loan": 0
+  }
+]
